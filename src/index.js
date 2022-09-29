@@ -1,5 +1,6 @@
 import './js/app';
 
-import './js/classmam_Character';
-import './js/class_Bowerman';
-import './js/class_Zombie';
+import './js/class_GameSaving';
+import './js/class_GameSavingLoader';
+import './js/parser';
+import './js/reader';
